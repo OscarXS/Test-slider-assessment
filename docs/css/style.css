@@ -113,12 +113,6 @@ body {
     height: 20px;
 }
 
-.title-text {
-    font-size: 24px;
-    padding-left: 300px;
-    margin-bottom: -150px;
-}
-
 /* Mobile first queries */
 
 /* Larger than mobile */
@@ -143,6 +137,12 @@ body {
     .owl-nav {
         display: none;
     } 
+
+    .title-text {
+        font-size: 24px;
+        padding-left: 30px;
+        margin-bottom: 10px;
+    }
 }
 
 /* Larger than phablet */
@@ -163,6 +163,12 @@ body {
     
     .owl-nav .owl-prev {
         left:250px;
+    }
+
+    .title-text {
+        font-size: 24px;
+        padding-left: 30px;
+        margin-bottom: 10px;
     }
 }
 
@@ -194,6 +200,12 @@ body {
     .owl-nav .owl-prev {
         left:150px;
     }
+
+    .title-text {
+        font-size: 24px;
+        padding-left: 30px;
+        margin-bottom: -50px;
+    }
 }
 
 /* Larger than desktop */
@@ -210,6 +222,12 @@ body {
     .owl-nav .owl-prev {
         left:350px;
     }
+
+    .title-text {
+        font-size: 24px;
+        padding-left: 300px;
+        margin-bottom: -150px;
+    }
 }
 
 /* Larger than desktop */
@@ -225,6 +243,12 @@ body {
     
     .owl-nav .owl-prev {
         left:300px;
+    }
+
+    .title-text {
+        font-size: 24px;
+        padding-left: 300px;
+        margin-bottom: -150px;
     }
 }
 
